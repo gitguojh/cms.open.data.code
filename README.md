@@ -1,6 +1,6 @@
 # DimuonSpectrum2011
 
-This is a simple analysis example to compute the spectrum of two muon final state with CMS Open Data.
+This is a simple analysis example to compute the spectrum of two muon final states with CMS Open Data, which is totally based on their work [https://github.com/cms-opendata-analyses/DimuonSpectrum2011.git]. And this file is for scientific needs and only for scientifical research.
 
 It is based on the original code in [http://opendata.web.cern.ch/record/5001] on the CERN Open Data portal (Geiser, Achim. Dutta, Irene. Hirvonsalo, Harri. Sheeran, Bridget. (2017). Example code to produce the di-muon spectrum from a CMS 2011 or 2012 primary dataset. CERN Open Data Portal. DOI: 10.7483/OPENDATA.CMS.D00J.UVB1) and modified here for direct download from github. 
 
